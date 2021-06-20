@@ -7,6 +7,7 @@ This is a static WebApp made with Bootstrap by [@iamrajthomas](https://github.co
 ```
 Hosted Application: [https://iamrajthomas.github.io/BikeStaticWebApp/]
 ```
+## Hosted URL:
 
 You can click here to Check the hosted application:
-[https://iamrajthomas.github.io/BikeStaticWebApp] (https://iamrajthomas.github.io/BikeStaticWebApp)
+[https://iamrajthomas.github.io/BikeStaticWebApp](https://iamrajthomas.github.io/BikeStaticWebApp)
